@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "994501041619",
+    "project_id": "uas-kelompok-6",
+    "storage_bucket": "uas-kelompok-6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994501041619:android:ba5a9d5e8c105ed5b7a326",
+        "android_client_info": {
+          "package_name": "com.example.bar_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASFH3IChrP71Cip-ChRVJOi3jEuvdzMKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
